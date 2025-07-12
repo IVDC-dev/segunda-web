@@ -1,0 +1,46 @@
+header{
+    background-color: brown;
+    width: 100vw;
+    font-size: 9vw;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#libro{
+
+    display: block;
+    margin: 50px auto 0 auto;
+    height: 40vw;
+}
+
+#parrafo1{
+
+    font-size: 2em;
+    color: gray;
+    text-align: center;
+
+}
+
+h1{
+
+    font-size: 7svw;
+    text-align: center;
+}
+
+h2{
+
+    font-size: 4vw;
+}
+
+#lista1{
+
+    color:red;
+}
+
+table, th, td{
+
+    border: 2px outset black; 
+}
+
