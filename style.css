@@ -1,0 +1,73 @@
+header{
+    background-color: brown;
+    width: 100vw;
+    font-size: 9vw;
+    text-align: right;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#libro{
+
+    display: block;
+    margin: 50px auto 0 auto;
+    height: 40vw;
+}
+
+#parrafo1{
+
+    font-size: 2em;
+    color: gray;
+    text-align: center;
+
+}
+
+h1{
+
+    font-size: 5svw;
+    text-align: center;
+}
+
+h2{
+
+    font-size: 3vw;
+}
+
+#lista1{
+
+    color:red;
+}
+
+table, th, td{
+
+    border: 2px outset black; 
+    font-size: 2vw;
+    text-align: center;
+    
+}
+
+
+#boton{
+
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+p{
+
+    font-size: 20px;
+}
+
+#cuantos_quiere {
+
+    font-size: 2vw;
+}
+
+#boton_comprar{
+
+    width: 10vw;
+    height: 4vw;
+    font-size: 2vw;
+}
